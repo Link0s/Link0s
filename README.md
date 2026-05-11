@@ -1,10 +1,9 @@
 <div align="center">
 
 # 👋 ¡Hola! Soy Fredy Leonardo Ramírez Estrada
-### 🎓 Ingeniero en Sistemas | 🎨 Diseñador Gráfico | 💻 Full Stack & Odoo Developer
+### 🎓 Ingeniero en Sistemas | 💻 Full Stack Developer | 🛡️ Pentesting Enthusiast | 🎨 Diseñador Gráfico
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tuportafolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freramiestra0628@gmail.com)
 
 ---
@@ -14,49 +13,55 @@
 
 ## 💼 Sobre mí
 
-Soy un profesional apasionado por la convergencia entre el **diseño visual** y el **desarrollo técnico**. Me especializo en crear soluciones empresariales funcionales con interfaces intuitivas y seguras. Cuento con amplia experiencia en el ecosistema **Odoo**, desarrollo web, automatización y ciberseguridad básica.
+Soy un desarrollador integral con experiencia en la creación de soluciones escalables tanto en el **Backend** como en el **Frontend**. Mi enfoque combina la potencia de **PHP/Laravel** y **Python** con la interactividad de **Angular**. Además, cuento con habilidades técnicas en **integración de APIs complejas (REST/SOAP)**, auditorías de seguridad en entornos **Linux** y diseño visual avanzado.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-### 👨‍💻 Desarrollo y ERP
+### 👨‍💻 Desarrollo Full Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🧪 Pruebas y Seguridad
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🔌 Integraciones y Arquitectura
+![REST API](https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge&logo=api&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP_API-FF6C37?style=for-the-badge&logo=xml&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛡️ Ciberseguridad & Linux
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### 🖌️ Diseño Gráfico y UI/UX
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### 🖌️ UI/UX & Frontend Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![XML](https://img.shields.io/badge/QWeb_XML-orange?style=for-the-badge&logo=xml&logoColor=white)
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos e Impacto
 
-### 🏢 Experiencia Profesional (Proyectos Privados / ERP)
-*Soluciones a medida enfocadas en procesos de negocio y Fintech.*
-
-| Proyecto | Descripción | Tecnologías |
+### 🛠️ Desarrollo de Sistemas e Integraciones
+| Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **💳 Pasarelas de Pago** | Desarrollo de módulos para pagos en línea integrados en Odoo, garantizando transacciones seguras. | `Python`, `Odoo ORM`, `APIs` |
-| **📑 Certificación FEL** | Integración de Factura Electrónica en Línea y formatos legales de impresión (Cheques/Vouchers). | `XML (QWeb)`, `Python`, `SOAP` |
-| **📦 Gestión de Inventarios** | Optimización de flujos de almacén y logística dentro del ecosistema Odoo. | `Odoo.sh`, `PostgreSQL` |
+| **🌐 Web Modernas** | Diseño y desarrollo de sitios web interactivos y plataformas escalables de alto rendimiento. | `Angular`, `TypeScript` |
+| **🏗️ Aplicaciones Empresariales** | Creación de sistemas robustos de gestión y backend administrativo. | `Laravel`, `PHP`, `MySQL` |
+| **🔌 Integración de APIs** | Conexión de sistemas mediante arquitecturas **REST** y **SOAP** para intercambio de datos seguro. | `Python`, `Node.js` |
+| **🛡️ API & Linux Pentesting** | Auditorías de seguridad y pruebas de penetración en servicios web bajo entornos Linux. | `Kali`, `Burp Suite` |
 
-### 🧪 Proyectos Open Source (Públicos)
-| Proyecto | Descripción | Link |
+### 📊 Soluciones ERP y Formatos Avanzados
+| Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **📦 Inventario Simple** | Sistema de stock con interfaz gráfica usando Python y Tkinter. | [Ver Repo](https://github.com/Link0s/Inventario-Simple-) |
-| **🕶️ Realidad Aumentada** | Pruebas y experimentos interactivos con tecnología AR en web. | [Ver Repo](https://github.com/Link0s/Realidad-Aumentaeda) |
-| **🐍 Python Projects** | Colección de scripts y herramientas para automatización. | [Ver Repo](https://github.com/Link0s/Python-) |
+| **💳 Pasarelas de Pago** | Implementación de flujos de pago online y certificaciones fiscales (FEL). | `Python`, `REST/SOAP` |
+| **🎟️ Ticketing & Reports** | Desarrollo de motores de impresión de tickets y reportes dinámicos interactivos. | `QWeb`, `XML` |
+| **🎨 UI de Sistemas** | Rediseño y optimización de interfaces de usuario para ERPs y sistemas internos. | `XML`, `JS`, `CSS` |
 
 ---
 
@@ -70,11 +75,11 @@ Soy un profesional apasionado por la convergencia entre el **diseño visual** y 
 ---
 
 ## 🤝 Conectemos
-¡Siempre estoy abierto a charlar sobre desarrollo web, diseño o nuevas oportunidades!
+¡Estoy disponible para colaborar en proyectos de desarrollo web, integraciones o seguridad!
 
 - 📩 **Email:** [freramiestra0628@gmail.com](mailto:freramiestra0628@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- 🏢 **Odoo.sh / GitHub:** [Link0s](https://github.com/Link0s)
+- 💼 **LinkedIn:** [Tu Perfil Profesional](https://linkedin.com/in/tuusuario)
+- 🏢 **GitHub:** [Link0s](https://github.com/Link0s)
 
 <div align="center">
   <br />
