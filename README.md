@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Fredy Ramírez <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35">
+# Hola, soy Fredy Ramírez <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" valign="middle">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas;Full+Stack+Developer;Experto+en+Angular+%26+Laravel;Linux+Pentester;Diseñador+UI%2FUX" alt="Typing SVG" />
@@ -25,13 +25,13 @@
 
 <br>
 
-##  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/star.gif" alt="Glowing Star" width="28"> Sobre mí Sobre mí
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="30" valign="middle"> Sobre mí
 
 Soy un desarrollador integral con experiencia en la creación de soluciones escalables tanto en el **Backend** como en el **Frontend**. Mi enfoque combina la potencia de **PHP/Laravel** y **Python** con la interactividad de **Angular**. Además, cuento con habilidades técnicas en **integración de APIs complejas (REST/SOAP)**, auditorías de seguridad en entornos **Linux** y diseño visual avanzado.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="28"> Tecnologías y Herramientas
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="30" valign="middle"> Tecnologías y Herramientas
 
 <div align="center">
   <br>
@@ -47,28 +47,28 @@ Soy un desarrollador integral con experiencia en la creación de soluciones esca
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28"> Proyectos e Impacto
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" valign="middle"> Proyectos e Impacto
 
 ### 🛠️ Desarrollo de Sistemas e Integraciones
 
 | Proyecto | Descripción | Stack | 
 | :--- | :--- | :--- | 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="25" valign="middle"> **Web Modernas** | Diseño y desarrollo de sitios web interactivos y plataformas escalables de alto rendimiento. | <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"> | 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="25" valign="middle"> **Aplicaciones Empresariales** | Creación de sistemas robustos de gestión y backend administrativo. | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> | 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="25" valign="middle"> **Integración de APIs** | Conexión de sistemas mediante arquitecturas **REST** y **SOAP** para intercambio de datos seguro. | <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"> | 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="25" valign="middle"> **API & Linux Pentesting** | Auditorías de seguridad y pruebas de penetración en servicios web bajo entornos Linux. | <img src="https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white"> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white"> | 
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" alt="🌐" width="30" valign="middle"> **Web Modernas** | Diseño y desarrollo de sitios web interactivos y plataformas escalables de alto rendimiento. | <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"> | 
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d7/512.gif" alt="🏗️" width="30" valign="middle"> **Aplicaciones Empresariales** | Creación de sistemas robustos de gestión y backend administrativo. | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> | 
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50c/512.gif" alt="🔌" width="30" valign="middle"> **Integración de APIs** | Conexión de sistemas mediante arquitecturas **REST** y **SOAP** para intercambio de datos seguro. | <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"> | 
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e1/512.gif" alt="🛡️" width="30" valign="middle"> **API & Linux Pentesting** | Auditorías de seguridad y pruebas de penetración en servicios web bajo entornos Linux. | <img src="https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white"> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white"> | 
 
 ### 📊 Soluciones ERP y Formatos Avanzados
 
 | Proyecto | Descripción | Stack | 
 | :--- | :--- | :--- | 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Credit%20Card.png" width="25" valign="middle"> **Pasarelas de Pago** | Implementación de flujos de pago online y certificaciones fiscales (FEL). | <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/REST/SOAP-025E8C?style=flat&logo=api&logoColor=white"> | 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ticket.png" width="25" valign="middle"> **Ticketing & Reports** | Desarrollo de motores de impresión de tickets y reportes dinámicos interactivos. | <img src="https://img.shields.io/badge/QWeb-875A7B?style=flat&logo=odoo&logoColor=white"> <img src="https://img.shields.io/badge/XML-orange?style=flat&logo=xml&logoColor=white"> | 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="25" valign="middle"> **UI de Sistemas** | Rediseño y optimización de interfaces de usuario para ERPs y sistemas internos. | <img src="https://img.shields.io/badge/XML-orange?style=flat&logo=xml&logoColor=white"> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"> | 
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b3/512.gif" alt="💳" width="30" valign="middle"> **Pasarelas de Pago** | Implementación de flujos de pago online y certificaciones fiscales (FEL). | <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/REST/SOAP-025E8C?style=flat&logo=api&logoColor=white"> | 
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f39f/512.gif" alt="🎟️" width="30" valign="middle"> **Ticketing & Reports** | Desarrollo de motores de impresión de tickets y reportes dinámicos interactivos. | <img src="https://img.shields.io/badge/QWeb-875A7B?style=flat&logo=odoo&logoColor=white"> <img src="https://img.shields.io/badge/XML-orange?style=flat&logo=xml&logoColor=white"> | 
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a8/512.gif" alt="🎨" width="30" valign="middle"> **UI de Sistemas** | Rediseño y optimización de interfaces de usuario para ERPs y sistemas internos. | <img src="https://img.shields.io/badge/XML-orange?style=flat&logo=xml&logoColor=white"> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"> | 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28"> Actividad y Estadísticas
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="30" valign="middle"> Actividad y Estadísticas
 
 <div align="center">
 
@@ -90,7 +90,7 @@ Soy un desarrollador integral con experiencia en la creación de soluciones esca
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28"> Conectemos
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="30" valign="middle"> Conectemos
 
 <div align="center">
   <p>¿Interesado en una colaboración técnica o un proyecto de desarrollo y seguridad?</p>
