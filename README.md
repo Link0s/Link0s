@@ -72,7 +72,7 @@ Soy un desarrollador integral con experiencia en la creación de soluciones esca
 
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Link0s&theme=transparent&color=333333&line=0e75b6&point=24292e&area=true&hide_border=true" alt="Gráfico Animado de Actividad" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Link0s&bg_color=00000000&color=333333&line=0e75b6&point=24292e&area=true&hide_border=true" alt="Gráfico Animado de Actividad" />
   
   <br><br>
 
@@ -83,9 +83,9 @@ Soy un desarrollador integral con experiencia en la creación de soluciones esca
   </picture>
 
   <br><br>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Link0s&show_icons=true&theme=transparent&title_color=0e75b6&text_color=777777&icon_color=0e75b6&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Link0s&layout=compact&theme=transparent&title_color=0e75b6&text_color=777777&hide_border=true" />
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Link0s&show_icons=true&bg_color=00000000&title_color=0e75b6&text_color=777777&icon_color=0e75b6&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Link0s&layout=compact&bg_color=00000000&title_color=0e75b6&text_color=777777&hide_border=true" />
 </div>
 
 ---
