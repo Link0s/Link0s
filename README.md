@@ -1,66 +1,82 @@
-# 👋 ¡Hola! Soy Fredy Leonardo Ramírez Estrada
+<div align="center">
 
-🎓 **Ingeniero en Sistemas de Información y Ciencias de la Computación**  
-🎨 **Diseñador Gráfico con experiencia en desarrollo web, automatización y pruebas de seguridad**
+# 👋 ¡Hola! Soy Fredy Leonardo Ramírez Estrada
+### 🎓 Ingeniero en Sistemas | 🎨 Diseñador Gráfico | 💻 Full Stack & Odoo Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tuportafolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freramiestra0628@gmail.com)
 
 ---
+
+*"La tecnología bien aplicada puede cambiar el mundo. El diseño, hacerlo memorable."*
+</div>
 
 ## 💼 Sobre mí
 
-Soy un profesional apasionado por la tecnología, con habilidades en programación, diseño visual y pruebas de seguridad. Me especializo tanto en el desarrollo de soluciones funcionales como en crear interfaces intuitivas y atractivas. También tengo experiencia realizando pruebas de penetración básicas y utilizando herramientas de desarrollo e integración modernas.
+Soy un profesional apasionado por la convergencia entre el **diseño visual** y el **desarrollo técnico**. Me especializo en crear soluciones empresariales funcionales con interfaces intuitivas y seguras. Cuento con amplia experiencia en el ecosistema **Odoo**, desarrollo web, automatización y ciberseguridad básica.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y Herramientas
 
-### 👨‍💻 Lenguajes de programación y frameworks
-- **Python**, **HTML5**, **CSS3**, **JavaScript**
-- **PHP**, **SQL**, **XML**
-- **Odoo (QWeb, XML, ORM)**, **Laravel**
-- **Node.js** *(básico)*
+### 👨‍💻 Desarrollo y ERP
+![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🧪 Herramientas de pruebas y APIs
-- **Postman** (REST API testing)
-- **SOAP UI**
-- **Burp Suite** *(pentesting básico)*
-- **Wireshark**
+### 🧪 Pruebas y Seguridad
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### 🖌️ Diseño gráfico y multimedia
-- **Adobe Photoshop**
-- **Adobe Illustrator**
-- **Adobe InDesign**
-- **CorelDRAW**
-
-### 🧰 Otras herramientas
-- **Git & GitHub**
-- **Figma**
-- **Trello / Jira**
-- **Visual Studio Code**
-- **Odoo.sh / Docker / cPanel**
+### 🖌️ Diseño Gráfico y UI/UX
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-🔹 **[Inventario Simple](https://github.com/Link0s/Inventario-Simple-)**  
-Sistema de inventario con interfaz sencilla usando Python y Tkinter.
+### 🏢 Experiencia Profesional (Proyectos Privados / ERP)
+*Soluciones a medida enfocadas en procesos de negocio y Fintech.*
 
-🔹 **[Realidad Aumentada](https://github.com/Link0s/Realidad-Aumentaeda)**  
-Pruebas básicas con código HTML para proyectos interactivos de AR.
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **💳 Pasarelas de Pago** | Desarrollo de módulos para pagos en línea integrados en Odoo, garantizando transacciones seguras. | `Python`, `Odoo ORM`, `APIs` |
+| **📑 Certificación FEL** | Integración de Factura Electrónica en Línea y formatos legales de impresión (Cheques/Vouchers). | `XML (QWeb)`, `Python`, `SOAP` |
+| **📦 Gestión de Inventarios** | Optimización de flujos de almacén y logística dentro del ecosistema Odoo. | `Odoo.sh`, `PostgreSQL` |
 
-🔹 **[Python Projects](https://github.com/Link0s/Python-)**  
-Colección de programas escritos en Python para distintos fines educativos.
-
----
-
-## 📫 ¿Hablamos?
-
-Estoy abierto a nuevas oportunidades laborales, colaboraciones o proyectos freelance.  
-**✉️** [TuCorreo@example.com]  
-**🔗 LinkedIn:** [linkedin.com/in/tuusuario]  
-**🌐 Portafolio (opcional):** [enlace a tu portafolio si tienes uno]
+### 🧪 Proyectos Open Source (Públicos)
+| Proyecto | Descripción | Link |
+| :--- | :--- | :--- |
+| **📦 Inventario Simple** | Sistema de stock con interfaz gráfica usando Python y Tkinter. | [Ver Repo](https://github.com/Link0s/Inventario-Simple-) |
+| **🕶️ Realidad Aumentada** | Pruebas y experimentos interactivos con tecnología AR en web. | [Ver Repo](https://github.com/Link0s/Realidad-Aumentaeda) |
+| **🐍 Python Projects** | Colección de scripts y herramientas para automatización. | [Ver Repo](https://github.com/Link0s/Python-) |
 
 ---
 
-> *"La tecnología bien aplicada puede cambiar el mundo. El diseño, hacerlo memorable."*
+## 📈 Estadísticas de GitHub
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Link0s&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Link0s&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🤝 Conectemos
+¡Siempre estoy abierto a charlar sobre desarrollo web, diseño o nuevas oportunidades!
+
+- 📩 **Email:** [freramiestra0628@gmail.com](mailto:freramiestra0628@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- 🏢 **Odoo.sh / GitHub:** [Link0s](https://github.com/Link0s)
+
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Link0s&label=Perfil%20Visto&color=0e75b6&style=flat" alt="Vistas" />
+</div>
