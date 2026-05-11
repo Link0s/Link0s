@@ -25,7 +25,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Glowing%20Star.png" alt="Glowing Star" width="28"> Sobre mí
+##  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/star.gif" alt="Glowing Star" width="28"> Sobre mí Sobre mí
 
 Soy un desarrollador integral con experiencia en la creación de soluciones escalables tanto en el **Backend** como en el **Frontend**. Mi enfoque combina la potencia de **PHP/Laravel** y **Python** con la interactividad de **Angular**. Además, cuento con habilidades técnicas en **integración de APIs complejas (REST/SOAP)**, auditorías de seguridad en entornos **Linux** y diseño visual avanzado.
 
